@@ -4,6 +4,6 @@
 ## อุปกรณ์
     1.ESP8266 NodeMCU
 
-    ![Board](nodemcu.jpg)
+    <img src="nodemcu.jpg">
 ## วิธีการใช้
 ## สมาชิก
