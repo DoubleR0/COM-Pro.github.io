@@ -3,7 +3,7 @@
     เพื่อป้องกันการขโมยรถ และมีความปลอดภับมากขึ้น
 ## อุปกรณ์
     1.ESP8266 NodeMCU
-    image = src(nodemcu.jpg)
+    <image src="nodemcu.jpg"/>
 ## วิธีการใช้
 
 ## สมาชิก
