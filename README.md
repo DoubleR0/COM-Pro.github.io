@@ -35,4 +35,5 @@
     * นาย ราชนุกูล พลเดช 61070185
     * นาย พิชชาพงศ์ มะปูเลาะ 61070150
 * ## ชิ้นงาน
-    ![poster](111.jpg)
+    <img src="000.png" width=100px higjt=100px>
+    <img src="001.png" width=100px higjt=100px>
